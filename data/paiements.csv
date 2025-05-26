@@ -1,0 +1,6 @@
+vente_id,montant,mode_paiement,date_paiement
+1,299.99,'Cartedecrédit','2025-05-01'
+2,39.98,'PayPal','2025-05-02'
+3,12.45,'Espèces','2025-05-03'
+4,799.99,'Cartedecrédit','2025-05-04'
+5,49.99,'Virementbancaire','2025-05-05'
