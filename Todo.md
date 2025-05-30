@@ -8,14 +8,14 @@
 
 ## 2 - Extraction
 
-- [ ] Mysql
-  - [ ] Creation de la base de donnee
-  - [ ] Creation des tables
-  - [ ] Insertion des donnees de test
-- [ ] Telecharger le fichier csv
+- [x] Mysql
+  - [x] Creation de la base de donnee
+  - [x] Creation des tables
+  - [x] Insertion des donnees de test
+- [x] Telecharger le fichier csv
 - [ ] Planifier tache extraction
-  - [ ] creation dag "transfer"
-  - [ ] etablir la liste des tables a transferer
+  - [x] creation dag "transfer"
+  - [x] etablir la liste des tables a transferer
   - [ ] cree un schema pour les donnees raw dans postgres
   - [ ] tache 1 - extraire donnee mysql
     - [ ] nettoyer les tables du data lakes
