@@ -16,13 +16,13 @@
 - [ ] Planifier tache extraction
   - [x] creation dag "transfer"
   - [x] etablir la liste des tables a transferer
-  - [ ] cree un schema pour les donnees raw dans postgres
-  - [ ] tache 1 - extraire donnee mysql
-    - [ ] nettoyer les tables du data lakes
-      - [ ] create la table si elle existe deja
-      - [ ] effacer les donnees de la table
-    - [ ] recuperer les donnees des tables dans mysql
-    - [ ] insertion des donnees dans les tables de postgresql
+  - [x] cree la base de donnee raw (dwh_raw)
+  - [x] cree un schema pour les donnees raw dans postgres
+  - [x] cree les tables raw pour recuperer les donnees
+  - [x] tache 1 - extraire donnee mysql
+    - [x] nettoyer les tables du data lakes
+    - [x] recuperer les donnees des tables dans mysql
+    - [x] insertion des donnees dans les tables de postgresql
   - [ ] tache 2 - extraire donnee csv
     - [ ] lecture fichier
     - [ ] copier lignes de donnees directement dans postgres
