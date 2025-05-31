@@ -23,7 +23,7 @@
     - [x] nettoyer les tables du data lakes
     - [x] recuperer les donnees des tables dans mysql
     - [x] insertion des donnees dans les tables de postgresql
-  - [ ] regler probleme de depence aux hook mysql et postgresql
+  - [x] regler probleme de depence aux hook mysql et postgresql
   - [ ] tache 2 - extraire donnee csv
     - [ ] lecture fichier
     - [ ] copier lignes de donnees directement dans postgres
